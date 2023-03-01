@@ -1,7 +1,2 @@
-# pyXLSParser
-XLS file Parser
-
-проект для разработки XLS парсеров
-using openpyxl and pandas
-
-создайте форк для реального проекта
+# pyNICARaspParser
+XLSX парсер для разбора расписания, созданного в приложении НИКА-ЛЮКС
