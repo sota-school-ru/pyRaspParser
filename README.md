@@ -1,2 +1,2 @@
-# pyNICARaspParser
+# pyRaspParser
 XLSX парсер для разбора расписания, созданного в приложении НИКА-ЛЮКС
